@@ -21,8 +21,8 @@ while(endX<500){
 }
 void mousePressed()
 {
-int startX = 150;
-int startY = 150;
-int endX = 100;
-int endY = 150;
+startX = 150;
+startY = 150;
+endX = 100;
+endY = 150;
 }
